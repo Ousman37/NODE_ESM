@@ -1,0 +1,28 @@
+{
+  "name": "node_esm",
+  "version": "2.0.0",
+  "description": "ESM",
+  "main": "index.js",
+  "scripts": {
+  "build": "webpack --config webpack.config.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ousman37/NODE_ESM.git"
+  },
+  "keywords": [
+    "javasrctpi",
+    "2",
+    "Es6"
+  ],
+  "author": "Ethmane <ousman.didibela@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ousman37/NODE_ESM/issues"
+  },
+  "homepage": "https://github.com/Ousman37/NODE_ESM#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
